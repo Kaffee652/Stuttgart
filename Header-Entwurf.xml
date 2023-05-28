@@ -123,13 +123,19 @@
                         <p>Hier steht ein dritter Tagebucheintrag
                         <lb/>Und hier ist die zweite Zeile
                         </p>
-                    <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143a2d32-7.pdf"/>
+                        <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143a2d32-7.pdf"/>
                     </div>
-                    <div type="diaryEntry" n="3">
-                    <p>Hier steht ein dritter Tagebucheintrag
-                    <lb/>Und hier ist die zweite Zeile
-                    </p>
-                    <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143a2d32-7.pdf"/>
+                    <div type="diaryEntry" n="4">
+                        <p>Hier steht ein vierter Tagebucheintrag
+                        <lb/>Und hier ist die zweite Zeile
+                        </p>
+                        <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143a8980-8.pdf"/>
+                    </div>
+                    <div type="diaryEntry" n="5">
+                        <p>Hier steht ein fünfter Tagebucheintrag
+                        <lb/>Und hier ist die zweite Zeile
+                        </p>
+                        <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143af0b1-9.pdf"/>
                     </div>
              </div>
             
