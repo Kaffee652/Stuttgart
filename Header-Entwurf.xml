@@ -110,32 +110,126 @@
                         <p>Hier steht ein Tagebucheintrag
                         <lb/>Und hier ist die zweite Zeile
                         </p>
-                        <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/18814336831-5.pdf"/>
                     </div>
                     <div type="diaryEntry" n="2">
                         <p>Hier steht ein zweiter Tagebucheintrag
                         <lb/>Und hier ist die zweite Zeile
                         </p>
-                        <!-- Wie nervig. Der Tagebucheintrag wird durch einen Seitenwechsel unterbrochen -->
-                        <pb facs="https://collections.thulb.uni-jena.de/rsc/viewer/HisBest_derivate_00015941/Mittheilungen_Perthes_ErgBl_129602507_1903_144_0006.tif"/>
                     </div>
                     <div type="diaryEntry" n="3">
                         <p>Hier steht ein dritter Tagebucheintrag
                         <lb/>Und hier ist die zweite Zeile
+                        <pb facs=www.url.de/>
+                        <lb/>weiter mit Tagebucheintrag 3
                         </p>
-                        <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143a2d32-7.pdf"/>
                     </div>
                     <div type="diaryEntry" n="4">
                         <p>Hier steht ein vierter Tagebucheintrag
                         <lb/>Und hier ist die zweite Zeile
+                        <pb facs=www.url.de/>
+                        <lb/>weiter mit Tagebucheintrag 4   
                         </p>
-                        <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143a8980-8.pdf"/>
                     </div>
                     <div type="diaryEntry" n="5">
                         <p>Hier steht ein fünfter Tagebucheintrag
                         <lb/>Und hier ist die zweite Zeile
+                        <pb facs=www.url.de/>
+                        <lb/>weiter mit Tagebucheintrag 5 
                         </p>
-                        <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143af0b1-9.pdf"/>
+                    </div>
+                    <div type="diaryEntry" n="6">
+                        <p>Hier steht ein sechster Tagebucheintrag
+                        <lb/>Und hier ist die zweite Zeile
+                        <pb facs=www.url.de/>
+                        <lb/>weiter mit Tagebucheintrag 6 
+                        <pb facs=www.url.de/>
+                        <lb/>weiter mit Tagebucheintrag 6
+                        <pb facs=www.url.de/>
+                        <lb/>weiter mit Tagebucheintrag 6
+                        <pb facs=www.url.de/>
+                        <lb/>weiter mit Tagebucheintrag 6
+                        </p>
+                    </div>
+                    <div type="diaryEntry" n="7">
+                        <p>Hier steht ein siebter Tagebucheintrag
+                        <lb/>Und hier ist die zweite Zeile
+                        <pb facs=www.url.de/>
+                        <lb/>weiter mit Tagebucheintrag 7 
+                        </p>
+                    </div>
+                    <div type="diaryEntry" n="8">
+                        <p>Hier steht ein achter Tagebucheintrag
+                        <lb/>Und hier ist die zweite Zeile
+                        <pb facs=www.url.de/>
+                        <lb/>weiter mit Tagebucheintrag 8
+                        <pb facs=www.url.de/>
+                        <lb/>weiter mit Tagebucheintrag 8
+                        </p>
+                    </div>
+                    <div type="diaryEntry" n="9">
+                        <p>Hier steht ein neunter Tagebucheintrag
+                        <lb/>Und hier ist die zweite Zeile
+                        </p>
+                    </div>
+                    <div type="diaryEntry" n="10">
+                        <p>Hier steht ein zehnter Tagebucheintrag
+                        <lb/>Und hier ist die zweite Zeile
+                        <pb facs=www.url.de/>
+                        <lb/>weiter mit Tagebucheintrag 10
+                        <pb facs=www.url.de/>
+                        </p>
+                    </div>
+                    <div type="diaryEntry" n="11">
+                        <p>Hier steht ein elfter Tagebucheintrag
+                        <lb/>Und hier ist die zweite Zeile
+                        <pb facs=www.url.de/>
+                        <lb/>weiter mit Tagebucheintrag 11
+                        </p>
+                    </div>
+                    <div type="diaryEntry" n="12">
+                        <p>Hier steht ein zwölfter Tagebucheintrag
+                        <lb/>Und hier ist die zweite Zeile
+                        </p>
+                    </div>
+                    <div type="diaryEntry" n="13">
+                        <p>Hier steht ein dreizehnter Tagebucheintrag
+                        <lb/>Und hier ist die zweite Zeile
+                        <pb facs=www.url.de/>
+                        <lb/>weiter mit Tagebucheintrag 13
+                        </p>
+                    </div>
+                    <div type="diaryEntry" n="14">
+                        <p>Hier steht ein vierzehnter Tagebucheintrag
+                        <lb/>Und hier ist die zweite Zeile
+                        </p>
+                    </div>
+                    <div type="diaryEntry" n="15">
+                        <p>Hier steht ein fünfzehnter Tagebucheintrag
+                        <lb/>Und hier ist die zweite Zeile
+                        </p>
+                    </div>
+                    <div type="diaryEntry" n="16">
+                        <p>Hier steht ein sechszehnter Tagebucheintrag
+                        <lb/>Und hier ist die zweite Zeile
+                        <pb facs=www.url.de/>
+                        <lb/>weiter mit Tagebucheintrag 16
+                        </p>
+                    </div>
+                    <div type="diaryEntry" n="17">
+                        <p>Hier steht ein siebzehnter Tagebucheintrag
+                        <lb/>Und hier ist die zweite Zeile
+                        </p>
+                    </div>
+                    <div type="diaryEntry" n="18">
+                        <p>Hier steht ein achtzehnter Tagebucheintrag
+                        <lb/>Und hier ist die zweite Zeile
+                        </p>
+                    </div>
+                    <div type="diaryEntry" n="19">
+                        <p>Hier steht ein neunzehnter Tagebucheintrag
+                        <lb/>Und hier ist die zweite Zeile
+                        <pb facs=www.url.de/>
+                        </p>
                     </div>
              </div>
             
