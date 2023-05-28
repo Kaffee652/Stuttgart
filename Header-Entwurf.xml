@@ -12,8 +12,8 @@
                 </author>
                 <respStmt>
                     <persName>
-                        <surname>Dogunke</surname>
-                        <forename>Swantje</forename>
+                        <surname>Rudolph</surname>
+                        <forename>Nicole</forename>
                     </persName>
                     <resp>
                         <note type="remarkResponsibility">Bearbeitung der digitalen Edition.</note>
@@ -110,15 +110,27 @@
                         <p>Hier steht ein Tagebucheintrag
                         <lb/>Und hier ist die zweite Zeile
                         </p>
+                        <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/18814336831-5.pdf"/>
                     </div>
                     <div type="diaryEntry" n="2">
-                        <p>Hier steht ein zweiter Tagebucheintrag</p>
+                        <p>Hier steht ein zweiter Tagebucheintrag
+                        <lb/>Und hier ist die zweite Zeile
+                        </p>
                         <!-- Wie nervig. Der Tagebucheintrag wird durch einen Seitenwechsel unterbrochen -->
                         <pb facs="https://collections.thulb.uni-jena.de/rsc/viewer/HisBest_derivate_00015941/Mittheilungen_Perthes_ErgBl_129602507_1903_144_0006.tif"/>
                     </div>
-                <div type="diaryEntry">
-                    <p>Hier steht ein dritter Tagebucheintrag</p>
-                </div>
+                    <div type="diaryEntry" n="3">
+                        <p>Hier steht ein dritter Tagebucheintrag
+                        <lb/>Und hier ist die zweite Zeile
+                        </p>
+                    <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143a2d32-7.pdf"/>
+                    </div>
+                    <div type="diaryEntry" n="3">
+                    <p>Hier steht ein dritter Tagebucheintrag
+                    <lb/>Und hier ist die zweite Zeile
+                    </p>
+                    <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143a2d32-7.pdf"/>
+                    </div>
              </div>
             
         </body>
