@@ -186,6 +186,8 @@
                         <lb/>Und hier ist die zweite Zeile
                         <pb facs="www.url.de/"/>
                         <lb/>weiter mit Tagebucheintrag 11
+                        <pb facs="www.url.de/"/>
+                        <lb/>weiter mit Tagebucheintrag 11
                         </p>
                     </div>
                     <div type="diaryEntry" n="12">
