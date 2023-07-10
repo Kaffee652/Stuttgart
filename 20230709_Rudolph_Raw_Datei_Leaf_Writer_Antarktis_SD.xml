@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Die antarktischen Eisverhältnisse : Auszug aus meinem Tagebuch
+                    der Südpolarreise der "Belgica" 1898-1899</title>
+                <author>
+                    <persName ref="http://d-nb.info/gnd/12279804X">
+                        <surname>Arctowski</surname>
+                        <forename>Henryk</forename>
+                    </persName>
+                </author>
+                <respStmt>
+                    <persName>
+                        <surname>Rudolph</surname>
+                        <forename>Nicole</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Bearbeitung der digitalen Edition.</note>
+                        <date type="importDTA">2023-05-08T13:38:54Z</date>
+                    </resp>
+                </respStmt>
+
+            </titleStmt>
+            <editionStmt>
+                <edition>Vollständige digitalisierte Ausgabe.</edition>
+            </editionStmt>
+            <extent>
+                <measure type="images">126</measure>
+                <measure type="tokens"/>
+                <measure type="types"/>
+                <measure type="characters"/>
+            </extent>
+            <publicationStmt>
+                <publisher> Hochschule der Medien Stuttgart </publisher>
+                <publisher> Thrüingische Universitäts- und Landesbibliothek Jena </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="MS"/>
+                <biblFull>
+                    <titleStmt>
+                        <title level="m" type="main">Die antarktischen Eisverhältnisse : Auszug aus
+                            meinem Tagebuch der Südpolarreise der "Belgica" 1898-1899</title>
+                        <author>
+                            <persName ref="http://d-nb.info/gnd/12279804X">
+                                <surname>Arctowski</surname>
+                                <forename>Henryk</forename>
+                            </persName>
+                        </author>
+                        <editor>
+                            <persName ref="http://d-nb.info/gnd/132560585">
+                                <surname>Perthes</surname>
+                                <forename>Bernhard</forename>
+                            </persName>
+                        </editor>
+                    </titleStmt>
+                    <editionStmt>
+                        <edition n="1"/>
+                    </editionStmt>
+                    <extent>
+                        <measure type="pages">IV, 121 S.</measure>
+                    </extent>
+                    <publicationStmt>
+                        <publisher><name>Perthes Gotha</name></publisher>
+                        <pubPlace>Gotha</pubPlace>
+                        <date type="publication">1903</date>
+                        <date type="creation">1898-1899</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <title level="s" type="main">A. Petermann's Mitteilungen aus Justus Perthes'
+                            Geographischer Anstalt / Ergänzungsheft</title>
+                        <biblScope unit="volume">144</biblScope>
+                    </seriesStmt>
+                </biblFull>
+                <msDesc xml:id="imagesource-1" corresp="#availability-imagesource-1">
+                    <msIdentifier>
+                        <repository>Thüringer Universitäts-und Landesbibliothek</repository>
+                        <idno>
+                            <idno type="shelfmark"> 4 Geogr.I,63/1 :30.7</idno>
+                            <idno type="URLCatalogue"
+                                >https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=184397103</idno>
+                            <idno type="URLImages"
+                                >https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00029505</idno>
+                            <idno type="URN"
+                                >https://nbn-resolving.org/urn:nbn:de:urmel-f02861e2-7dc3-495b-8f37-62a980aaebd52</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+                xmlns:as="http://www.w3.org/ns/activitystreams#"
+                xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
+                xmlns:dc="http://purl.org/dc/elements/1.1/"
+                xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+                xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#"
+                xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+                xmlns:fabio="https://purl.org/spar/fabio#"
+                xmlns:bf="http://www.openlinksw.com/schemas/bif#"
+                xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#"
+                xmlns:org="http://www.w3.org/ns/org#"/></xenoData>
+        <encodingDesc>
+            <editorialDecl>
+                <p> Zeilenumbrüche nach Original Auszeichnungen von Personen, Orten Kommentierung
+                    Registereinträge </p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main"
+                    >Wissenschaft</classCode>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+
+            <div type="chapter" n="001">
+                <div type="diaryEntry" n="8">
+
+                    <pb facs="www.url.de/"/>
+                    <p>
+                        <lb/>weiter mit Tagebucheintrag 8 <pb facs="www.url.de/"/> gebildet hatte,
+                        von welchem er sich dann losgelöst haben muß. Der Eisberg bildete eine<lb/>
+                        niedrige, leicht modellierte, ebene Fläche, die auf der einen Seite sich bis
+                        nahe an das<lb/> Wasser herabneigte, auf der<lb/>
+                        <lb/> anderen Seite durch einen<lb/>
+                        <lb/> kleinen Hügel abgeschlossen.<lb/>
+                        <lb/> wurde. Dieser Hügel mußte<lb/> sich, so scheint es mir, an<lb/> den
+                        Fels angelehnt haben,<lb/> von welchem die Schnee-<lb/> wehen und Lawinen
+                        die nötige Zugabe herunterbrachten, um mit der Zeit das Eis an der<lb/>
+                        Küste in einen wirklichen Eisberg umzuwandeln. Mehrere Spalten sandten vom
+                        Hügel aus-<lb/> ihre Strahlen nach der Ebene herunter.<lb/>
+                    </p>
+                </div>
+                <div type="diaryEntry" n="9">
+                    <p>Donnerstag, den 27. Jannar. Um 10 Uhr morgens landen wir auf einer
+                        kleinen<lb/> Insel unweit der <placeName
+                            ref="https://www.wikidata.org/wiki/Q2462413">Two
+                            Hummock-Insel</placeName>. Sie hat keine Schneehülle; ihre höchste
+                        Erhebung<lb/> beträgt wenigstens 30 m. Es ist eine Felswohnstätte von
+                        Pinguinen und Kormoranen. Die<lb/> Insel ist von Spalten zerklüftet, welche
+                        den Fels in rautenförmige Blöcke zerteilen, und mit<lb/> losgelösten eckigen
+                        Felsstücken bedeckt. Ihr Äussehen gleicht dem der Hochkämme der<lb/>
+                        Granitmassive in den Alpen. In den Vertiefungen im Schatten liegt Schnee; an
+                        manchen<lb/> Stellen ist in den Spalten etwas mit Ton und Vogelfedern
+                        gemischter Guano.<lb/> Nachmittags steuert die »Belgica« südwestwärts und
+                        abends treten wir in die große<lb/> breite Meerenge ein, die sich nach S
+                        erstreckt. Zu beiden Seiten sehen wir hohe Berge<lb/> und ungeheure Eisströme.<lb/>
+                        <!--Wie wird die Zeichnung eingefügt?-->
+                        <!-- Brauchst du nicht einfügen--> Diese Gletscher umfließen die<lb/>
+                        Vorgebirge, und ich erblicke<lb/> einen solchen, der über die<lb/> Küste
+                        hinaus sich ins Wasser-<lb/> der Meerenge hinein erstreckt.<lb/> Gegen 8 Uhr
+                        abends konnte.<lb/> ich die Gestalt des unter Wasser-<lb/> liegenden Teiles
+                        eines Eis-<lb/> blockes sehen, der ganz in<lb/> der Nähe des Schiffes
+                        vorbei-<lb/> kam. Nebenstehende Figur.<lb/> die ihn darstellt, zeigt,
+                        daß<lb/> das Wasser das Eis weniger<lb/> rasch auflöst, als die Luft und<lb/>
+                        <lb/> die Sonnenstrahlung es schmelzen. Das erklärt auch, warum die Eisberge
+                        sich in die Höhe<lb/> heben und über dem Wasserniveau ehemalige Wasserlinien
+                        zeigen müssen.<lb/>
+                    </p>
+                </div>
+                <div type="diaryEntry" n="10">
+                    <p>Freitag, den 28. Jannar. Das Wetter ist unsichtig. Wir machen mitten im
+                        Kanal<lb/> eine Lotung; die gefundene Tiefe beträgt 625 m. Rings um uns sind
+                        Finnwale; man<lb/> hört fortwährend ihr Atmen. Es wird ganz geheimnisvoll,
+                        so einsam fühlt man sich zwischen<lb/> dem grauen Himmelsgewölhe und der
+                        düsteren Oberfläche des Wassers. Die Finnwale<lb/> tauchen unter und kommen
+                        wieder an die Oberfläche; sie spielen, unsere Gegenwart stört<lb/> sie
+                        nicht, sie schenken uns keinerlei Beachtung. Man fühlt sich fremd in dieser
+                        seltsamen<lb/> Natur.<lb/> Wir fahren in die Nähe der Küste um eine Landung
+                        zu versuchen. Es sind dort<lb/> einige kleine Inseln und Felsen. Eine der
+                        Inseln zeigt Spuren einer leicht geneigten<lb/> Schichtung. Sie ist eben und
+                        fast vollständig unbedeckt; die Schneegrenze geht also nicht<lb/>
+                        <pb facs="www.url.de/"/> bis an das Meeresniveau herunter. Der Nebel hindert
+                        uns die Berge zu sehen und bloß<lb/> die tiefer liegenden Teile der Küste
+                        sind sichtbar. Längs der Küste sehe ich eine sehr<lb/> große Moräne, die
+                        unbedeckt ist und ungefähr von NO nach SW sich hinzieht. Massen-<lb/> haft
+                        schwimmt Treibeis umher.<lb/> Man sicht ganz deutlich mehrere<lb/> Stellen
+                        mit großen Eissteil-<lb/> wänden und krummlinig ein-<lb/> springenden
+                        Winkeln. Zweifel-<lb/> los haben sich dort Eisberge<lb/> losgelöst. Die
+                        Gletscherspalten,<lb/> die ich mit Cook auf der Two<lb/> Hummock-Inselsah,
+                        sind Stellen, 3<lb/> wo der Riß schon vollständig.<lb/>
+                        <lb/> sich gebildet hat, und ein<lb/> schwacher Stoß würde genügen, um den
+                        Absturz der ganzen Masse ins Meer zu bewirken.<lb/> Obenstehende Zeichnung
+                        zeigt, daß ein Eisberg auf dieselbe Weise wie ein Bergsturz ver-<lb/>
+                        ursacht sein kann. Der große Eisblock zerschellt bloß nicht beim Sturze ins
+                        Wasser, wie<lb/> die Felstrümmer, die ins Tal abstürzen, er kommt an die
+                        Oberfläche und schwimmt fort.<lb/> Dieses Vorgebirge wurde um Mittag
+                        gezeichnet. Am Fuße sieht man an zahlreichen<lb/> Stellen das Gestein; aber
+                        überall im Umkreis erhebt sich eine Eissteilwand, die stellen-<lb/> weise
+                        ins Meer abfällt. Unten ist die Bruchfläche glasig, weiter oben zeigt sich
+                        deutlich<lb/> die Schichtung des Firns. Ich bemerke keine dazwischen
+                        gelagerte Blaubänder; das<lb/> Aussehen ist vielmehr dasselbe wie in den
+                        Spalten der Firnfelder der Schweizer Gletscher-<lb/> in der Höhe des ewigen
+                        Schnees.<lb/> Beim Mittagessen entspann sich zwischen <persName
+                            ref="https://d-nb.info/gnd/116850892">Lecointe</persName> und
+                            <persName>de Gerlache</persName> eine lange und<lb/> sehr interessante
+                        Diskussion über die Frage, ob das Inseln seien oder ob die Küste eine<lb/>
+                        zusammenhängende sei. In der Tat sind die Schwierigkeiten sehr groß. Mag
+                        Nebel<lb/> herrschen, oder eine blendende Helle ohne Schatten und ohne
+                        Perspektive, im einen wie<lb/>
+                        <lb/> im anderen Falle ist es sehr schwierig, sich über die vielfachen
+                        Verschiedenartigkeiten klar-<lb/> zu werden, welche die Umrisse der Küste
+                        darbietet. Eine Insel, die an der Küste hervor-<lb/> tritt, scheint mit
+                        derselben zusammenzuhängen; erst wenn man ganz in die Nähe kommt,<lb/> sieht
+                        man den Kanal, der sie voneinander trennt. Solange wir nicht eine möglichst
+                        ins<lb/> Detail gehende hydrographische Untersuchung angestellt haben
+                        werden, wird die Ungewiß-<lb/> heit zweifellos nicht beseitigt werden, und
+                        zu diesem Zwecke muß die Küste ganz in der<lb/> Nähe verfolgt werden. Eine
+                        ungefähre Geographie ist unzulässig. Was hat es für eine<lb/> Bedeutung,
+                        sich noch so weit in unbekannte Gegenden zu wagen, wenn man auf der
+                        Welt-<lb/> karte weiter nichts als den verfolgten Weg einzeichnet? Das ist
+                        gewiß der Ruhm eines<lb/> Seefahrers, aber eine wissenschaftliche Expedition
+                        muß andere Ziele im Auge haben. Lecointe<lb/> hat sehr mit Recht darauf
+                        bestanden, daß die einmal begonnene Arbeit auch ans Ziel-<lb/> geführt
+                        werde.<lb/> Nachmittags 2 Uhr landen wir auf der flachen kleinen Insel mit
+                        den Schichtungs-<lb/> spuren. Beim Anlegen machte die See Schwierigkeiten.
+                        Die Insel liegt mehr als eine See-<lb/> meile von der Küste weg; sie ist an
+                        ihrem oberen Teile gewellt und zeigt auch in ihrer<lb/> Gesamtansicht eine
+                        höckerförmige Gestalt. Ihr Gestein besteht hauptsächlich aus Melaphyr,<lb/>
+                        der indes als Intrusionsgestein in dem grauen Knotenschiefer angesehen
+                        werden muß, der<lb/> zwar (auf der beschränkten Oberfläche, die ich
+                        untersuchen konnte) nur unter der Form-<lb/> einer 6m dicken Schicht
+                        sichtbar wird (Renard). Es liegt noch etwas Schnee auf der Insel.<lb/> Der
+                        Nebel hindert uns, weitere Aufnahmen zu machen. Es stürmt und die See ist unruhig.<lb/>
+                        <pb facs="www.url.de/"/>
+                    </p>
+                </div>
+                           </div>
+
+        </body>
+    </text>
+</TEI>
